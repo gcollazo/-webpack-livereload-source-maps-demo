@@ -1,4 +1,4 @@
-# webpack-livereload-source-maps
+# webpack-livereload-source-maps-demo
 
 ## Installation
 
